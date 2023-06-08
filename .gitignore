@@ -16,12 +16,10 @@ Assets/Editor/x64/Bakery
 ExportedObj/
 .consulo/
 *.csproj
-*.unityproj
 *.sln
 *.suo
 *.tmp
 *.user
-*.userprefs
 *.pidb
 *.booproj
 *.svd
